@@ -43,7 +43,9 @@ projektowania testów manualnych
 analizy wymagań
 identyfikowania edge case’ów
 myślenia w kategoriach QA
+
 Możliwe rozszerzenia:
+
 automatyzacja testów
 testy API
 testy wydajnościowe

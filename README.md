@@ -37,7 +37,8 @@ Podczas tworzenia testów zwrócono uwagę na:
 
 Narzędzia
 
-- TestRail – do zarządzania przypadkami testowymi  
+- TestRail – do zarządzania przypadkami testowymi
+- Jira - do zarządzania zgłoszeniami defektów
 
 
 
@@ -45,7 +46,8 @@ Struktura
 
 Repozytorium zawiera:
 
-- przypadki testowe  
+- przypadki testowe
+- zgłoszenia defektów
 - opis testowanego zakresu  
 
 
